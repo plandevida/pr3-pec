@@ -1,3 +1,6 @@
+% Author: Daniel Serrano Torres, Emilio Álvarez Piñeiro
+%% Práctica 03
+
 % suavizado
 % lectura de la imagen original
 I  = imread('Tema04a.jpg','jpeg');
